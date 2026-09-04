@@ -7,7 +7,7 @@ about:
   head: 2ee5e34
   archived: false
   latestVersion: v7.0.1
-  collectedAt: 2026-09-04T20:07:37Z
+  collectedAt: 2026-09-04T20:42:21Z
 timeline:
   created: 2013-02-11
   lastCommit: 2026-04-09
@@ -81,7 +81,7 @@ total:
   commit: 622
 ---
 path: /home/runner/.x-repo/github.com/yeoman/yo
-collectedAt: 2026-09-04T20:07:40Z
+collectedAt: 2026-09-04T20:42:22Z
 loc:
   Json:
     code: 16655
