@@ -56,20 +56,20 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-07 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-08 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-10 | 0 | 0 | 4 | 1 | 0 | 0 |
-| 360d | 2025-11-11 | 3 | 16 | 4 | 1 | 2 | 16 |
-| last720d | 2024-11-16 | 7 | 73 | 4 | 14 | 7 | 95 |
+| 30d | 2026-10-08 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-08 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-09 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-11 | 0 | 0 | 4 | 1 | 0 | 0 |
+| 360d | 2025-11-12 | 3 | 15 | 4 | 1 | 2 | 16 |
+| last720d | 2024-11-17 | 7 | 73 | 4 | 14 | 7 | 95 |
 
 ## Distribution status
 
-Reported by **11** distros on [repology.org](https://repology.org/project/yo). **3** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
+Reported by **10** distros on [repology.org](https://repology.org/project/yo). **3** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `7.0.1` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Nix unstable | `7.0.1` | ✅ latest |
 
 ## Improve this data
@@ -81,4 +81,4 @@ Install metadata for yo lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T06:56:03Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T06:11:56Z._
